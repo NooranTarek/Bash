@@ -28,12 +28,17 @@
 <html></br></html>
 
 4- Display /etc/passwd file except the lines that contain the word “lp”.
-![1]()
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q4.png?raw=true)
+<html></br></html>
 
 5- Substitute all the words that contain “lp” with “mylp” in /etc/passwd file.
-![1]()
+<html></br></html>
 
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q5.png?raw=true)
 
+<html></br></html>
 
 Using awk utility
 
