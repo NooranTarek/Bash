@@ -9,17 +9,20 @@
 
 1- Display the lines that contain the word “lp” in /etc/passwd file.
 <html></br></html>
+
 ![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q1.png?raw=true)
 <html></br></html>
 
 2- Display /etc/passwd file except the third line.
 <html></br></html>
+
 ![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q2.png?raw=true)
 
 <html></br></html>
 
 3- Display /etc/passwd file except the last line.
 <html></br></html>
+
 ![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q3.png?raw=true)
 
 <html></br></html>
