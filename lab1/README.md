@@ -41,13 +41,20 @@
 <html></br></html>
 
 Using awk utility
+<html></br></html>
 
 1- Print full name (comment) of all users in the system.
-![1]()
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q6.png?raw=true)
+<html></br></html>
 
 2- Print login, full name (comment) and home directory of all users.( Print each line preceded
 by a line number)
-![1]()
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q7.png?raw=true)
+<html></br></html>
 
 3- Print login, uid and full name (comment) of those uid is greater than 500
 ![1]()
