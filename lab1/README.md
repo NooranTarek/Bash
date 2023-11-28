@@ -1,6 +1,6 @@
 # BASH 
 # Lab1
-![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/full_colored_light.jpg?raw=true)
 
 <html></br></html>
 
