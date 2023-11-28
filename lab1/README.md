@@ -57,18 +57,44 @@ by a line number)
 <html></br></html>
 
 3- Print login, uid and full name (comment) of those uid is greater than 500
-![1]()
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q8.png?raw=true)
+<html></br></html>
 
 4- Print login, uid and full name (comment) of those uid is exactly 500
-![1]()
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q9.png?raw=true)
+<html></br></html>
 
 5- Print line from 5 to 15 from /etc/passwd
-![1]()
+
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q10.png?raw=true)
+
+<html></br></html>
 
 6- Change lp to mylp
-![1]()
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q11.png?raw=true)
+
+<html></br></html>
 
 7- Print all information about greatest uid.
-![1]()
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q12.png?raw=true)
+
+<html></br></html>
 
 8- Get the sum of all accounts id’s
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab1/lab1_q13.png?raw=true)
+
+<html></br></html>
+
+
