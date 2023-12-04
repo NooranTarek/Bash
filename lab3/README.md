@@ -26,7 +26,6 @@ e. Nothing.
 <html></br></html>
 
 ![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q2lab3.png?raw=true)
-
 <html></br></html>
 
 3. Write a script called mychmod using for utility to give execute permission to all files and
