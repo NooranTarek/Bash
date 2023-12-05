@@ -49,7 +49,7 @@ home directory.
 Note: write the mail body in a file called mtemplate.
 <html></br></html>
 
-![1]()
+![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q5lab3.png?raw=true)
 
 <html></br></html>
 
@@ -57,7 +57,8 @@ Note: write the mail body in a file called mtemplate.
 saved in /var/mail/username.
 
 <html></br></html>
-![1]()
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q6_lab3.png?raw=true)
 
 <html></br></html>
 
