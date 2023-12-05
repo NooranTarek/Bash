@@ -63,5 +63,26 @@ e. –R: recursively list subdirectories
 
 ![1](https://github.com/NooranTarek/Bash/blob/main/lab2/bash_q6a.png?raw=true)
 
+<html></br></html>
+
+7. Create a script called mytest where:
+a. It check the type of the given argument (file/directory)
+b. It check the permissions of the given argument (read/write/execute)
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab2/bash_q6a.png?raw=true)
 
 
+<html></br></html>
+
+8. Create a script called myinfo where:
+a. It asks the user about his/her logname.
+b. It print full info about files and directories in his/her home directory
+c. Copy his/her files and directories as much as you can in /tmp directory.
+d. Gets his current processes status.
+
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab2/bash_q6a.png?raw=true)
+
+<html></br></html>
