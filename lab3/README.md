@@ -83,7 +83,10 @@ done
 
 <html></br></html>
 
-there is an error as a result of using print command which is used in KSH not in BASH . instead we have to put echo
+there is an error as a result of
+<html></br></html>
+
+using print command which is used in KSH not in BASH . instead we have to put echo
 
 <html></br></html>
 also this line n1=$n1+1 is treating the expression as a string concatenation rather than an arithmetic operation. To perform arithmetic evaluation, you should use the $((...))
