@@ -101,7 +101,7 @@ Using select utility then while utility.
 
 <html></br></html>
 
-![1]()
+![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q8lab3.png?raw=true)
 
 <html></br></html>
 
@@ -110,19 +110,27 @@ array, fill the array and then print it.
 
 <html></br></html>
 
-![1]()
+![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q9lab3.png?raw=true)
 <html></br></html>
 
 10.Write a script called myavg that calculate average of all numbers entered by a user.
 Note: use arrays
 
 <html></br></html>
-![1]()
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q10lab3.png?raw=true)
 <html></br></html>
 
 11.Write a function called mysq that calculate square if its argument.
 
 
 <html></br></html>
-![1]()
+
+![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q11lab3.png?raw=true)
 <html></br></html>
+
+
+
+
+
+
