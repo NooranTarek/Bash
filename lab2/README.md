@@ -70,8 +70,7 @@ a. It check the type of the given argument (file/directory)
 b. It check the permissions of the given argument (read/write/execute)
 <html></br></html>
 
-![1](https://github.com/NooranTarek/Bash/blob/main/lab2/bash_q6a.png?raw=true)
-
+![1](https://github.com/NooranTarek/Bash/blob/main/lab2/q7lab2bash.png?raw=true)
 
 <html></br></html>
 
@@ -83,6 +82,6 @@ d. Gets his current processes status.
 
 <html></br></html>
 
-![1](https://github.com/NooranTarek/Bash/blob/main/lab2/bash_q6a.png?raw=true)
+![1](https://github.com/NooranTarek/Bash/blob/main/lab2/q8bashlab2.png?raw=true)
 
 <html></br></html>
