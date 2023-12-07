@@ -49,7 +49,7 @@ home directory.
 Note: write the mail body in a file called mtemplate.
 <html></br></html>
 
-![1](https://github.com/NooranTarek/Bash/blob/main/lab3/bash_q5lab3.png?raw=true)
+![1](https://github.com/NooranTarek/Bash/blob/main/lab3/mail.png?raw=true)
 
 <html></br></html>
 
